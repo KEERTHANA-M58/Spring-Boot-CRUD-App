@@ -43,3 +43,13 @@ client-management-system/
 │   │       ├── application.properties
 │   │       └── data.sql (optional)
 └── pom.xml
+
+---
+🎯 Future Enhancements
+Add frontend using React/Angular
+
+Input validation & exception handling
+
+Swagger documentation for API testing
+
+Add authentication using Spring Security
